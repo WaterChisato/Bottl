@@ -2,4 +2,4 @@
 
 手机打开，需要陀螺仪权限。
 
-iamlihua.github.io/ShakeIt/
+bot-validation.waterchisato.top
